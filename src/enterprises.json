@@ -1,0 +1,86 @@
+[  {    "enterprise": "TRISON EUROPE",    "years": {      "start": "2022",      "end": null    },    "description": [      "AV Commissioning Specialist & Programmer"    ],
+    "img": "/enterprises/trison.png",
+    "tasks": [
+      "Configuración de equipos de audio, video y control de sistemas de audiovisuales.",
+      "Programación de controladores Crestron, Extron, Kramer, QSC, BrightSign, etc.",
+      "Configuración de redes TCP/IP para sistemas de audiovisuales y Dante.",
+      "Configuración de sistemas de videoconferencia.",
+      "Desarrollo de paneles de control personalizados en C# y Lua.",
+      "Puesta en marcha de proyectos AV"
+    ],
+    "skills": [
+      "AV",
+      "Telecomunicaciones",
+      "Desarrollo de software"
+    ],
+    "technologies": {
+      "Vendors": [
+        "Crestron",
+        "Extron",
+        "BrightSign"
+      ],
+      "Protocols": [
+        "HDBaseT"
+      ],
+      "Hardware": [
+        "Kramer",
+        "QSC"
+      ],
+      "Programming Languages": [
+        "C# .NET",
+        "Lua"
+      ],
+      "Software": [
+        "Unity"
+      ]
+    }
+  },
+  {
+    "enterprise": "Inelcom S.A.",
+    "years": {
+      "start": 2020,
+      "end": 2022
+    },
+    "description": [
+      "Técnico de Sistemas Nivel 2 - Inditex"
+    ],
+    "img": "../../../img/inelcom.png",
+    "tasks": [
+      "Soporte y provisión de aplicaciones de punto de venta.",
+      "Administración y diagnóstico de sistemas Windows y periféricos",
+      "Instalación y mantenimiento de base de datos MSSQL",
+      "Gestión de incidencias y activos en Remedy y Jira",
+      "Gestión de equipos en Active Directory",
+      "Soporte e instalación RFID, Pinpads, Impresoras, Escáneres y Displays"
+    ],
+    "skills": [
+      "Scripting en Powershell - Automatización de diagnósticos y procesos",
+      "Desarrollo de microutiles en C# .NET - Automatización de reportes y tipificaciones",
+      "Microsoft Office"
+    ],
+    "technologies": {
+      "Operating Systems": [
+        "Windows Server 2012 R2",
+        "Windows 10"
+      ],
+      "Databases": [
+        "MSSQL"
+      ],
+      "Incident Management Tools": [
+        "Remedy",
+        "Jira"
+      ],
+      "Team Management Tools": [
+        "Active Directory"
+      ],
+      "Programming Languages": [
+        "Powershell",
+        "C# .NET"
+      ],
+      "Other Technologies": [
+        "Power Query",
+        "Grafana"
+      ]
+    }
+  }
+]
